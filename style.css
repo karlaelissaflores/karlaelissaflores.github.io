@@ -1,0 +1,47 @@
+ body {
+            font-family: 'Amiko';
+            background-color: #321f28;
+        }
+        
+        div {
+            margin: 10px;
+            margin-bottom: 0px;
+            background-repeat: no-repeat;
+            background-position: bottom;
+        }
+        
+        footer {
+            margin: 10px 3px 5px 3px;
+        }
+        
+        p {
+            color: #fff8cd;
+            text-align: justify;
+            font-family: arial;
+            letter-spacing: 2px;
+            padding: 20px;
+        }
+        
+        h1,
+        h3 {
+            color: antiquewhite;
+            text-align: center;
+        }
+        
+        img {
+            border-radius: 4px;
+            max-width: 120px;
+            float: left;
+        }
+        
+        a:link,
+        a:active,
+        a:visited {
+            color: #f6f5f1;
+            text-decoration: none;
+        }
+        
+        a:hover {
+            color: #8bcdcd;
+            opacity: 80%;
+        }
